@@ -1,3 +1,3 @@
 # demo-az-pipelines-yaml-app
  
-v1
+v2
