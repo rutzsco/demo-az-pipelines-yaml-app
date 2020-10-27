@@ -1,6 +1,6 @@
 # demo-az-pipelines-yaml-app
  
-v3
+v4
 
 ## Overview
 
