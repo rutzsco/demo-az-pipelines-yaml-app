@@ -10,3 +10,4 @@ https://github.com/rutzsco/demo-az-pipelines-yaml-app
 
 ## Key Links
 - https://docs.microsoft.com/en-us/azure/devops/release-notes/2020/sprint-173-update#multi-repo-triggers
+- https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/multi-repo-checkout?view=azure-devops
